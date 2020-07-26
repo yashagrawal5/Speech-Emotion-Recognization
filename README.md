@@ -7,7 +7,7 @@ This can be used by multiple industries to offer different services like marketi
 
 ## Analyzing audio signals
 ![](images/joomla_speech_prosody.png?raw=true)
-©joomla_speech_prosody
+
 <br>
 
 ### Datasets:
